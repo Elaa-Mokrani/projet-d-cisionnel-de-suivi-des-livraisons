@@ -1,0 +1,201 @@
+﻿ID_Commande,Date_Commande,Date_Livraison,Ville,Statut_Livraison,Motif_Réclamation,Note_Client,Canal_Commande,Type_Produit
+C0001,2025-03-02,2025-03-13,Tunis,Annulé,Retard de livraison,3,Site web,Livres
+C0002,2025-03-07,2025-03-16,Sousse,En retard,,3,Site web,Vêtements
+C0003,2025-02-18,2025-02-25,Gabès,Annulé,Retard de livraison,4,Téléphone,Jouets
+C0004,2025-02-14,2025-02-25,Gabès,Annulé,,5,App,Cosmétiques
+C0005,2025-02-21,2025-02-22,Sousse,En retard,,2,App,Cosmétiques
+C0006,2025-03-02,2025-03-08,Tunis,En retard,Service client injoignable,2,Site web,Jouets
+C0007,2025-03-11,2025-03-25,Sfax,Livré,,4,App,Livres
+C0008,2025-02-25,2025-03-07,Sousse,Livré,,4,App,Livres
+C0009,2025-01-02,2025-01-10,Gabès,Livré,,5,App,Vêtements
+C0010,2025-03-21,2025-04-03,Tunis,Annulé,Livraison incomplète,2,Site web,Vêtements
+C0011,2025-02-14,2025-02-24,Sousse,Annulé,Produit cassé,4,Site web,Vêtements
+C0012,2025-01-03,2025-01-08,Sousse,En retard,Retard de livraison,2,Téléphone,Jouets
+C0013,2025-02-07,2025-02-13,Nabeul,Annulé,Produit cassé,2,Téléphone,Vêtements
+C0014,2025-01-19,2025-02-02,Sfax,Livré,,4,Téléphone,Vêtements
+C0015,2025-02-07,2025-02-09,Gabès,Annulé,Livraison incomplète,2,App,Cosmétiques
+C0016,2025-01-17,2025-01-23,Nabeul,Livré,,3,Site web,Livres
+C0017,2025-01-15,2025-01-21,Tunis,En retard,Retard de livraison,3,App,Jouets
+C0018,2025-02-26,2025-03-05,Tunis,Annulé,Retard de livraison,3,Téléphone,Jouets
+C0019,2025-03-13,2025-03-23,Tunis,En retard,Service client injoignable,1,App,Électronique
+C0020,2025-01-18,2025-01-24,Nabeul,En retard,,4,Téléphone,Électronique
+C0021,2025-01-20,2025-01-26,Tunis,Annulé,Livraison incomplète,3,Téléphone,Livres
+C0022,2025-02-04,2025-02-18,Sfax,Annulé,Service client injoignable,3,App,Cosmétiques
+C0023,2025-01-31,2025-02-14,Tunis,En retard,Livraison incomplète,3,Site web,Livres
+C0024,2025-01-15,2025-01-17,Tunis,En retard,Livraison incomplète,4,Téléphone,Électronique
+C0025,2025-02-18,2025-02-21,Sousse,Livré,,4,Site web,Vêtements
+C0026,2025-01-24,2025-01-28,Nabeul,En retard,Livraison incomplète,1,Téléphone,Électronique
+C0027,2025-03-18,2025-03-24,Gabès,Annulé,Produit cassé,4,App,Vêtements
+C0028,2025-01-04,2025-01-10,Gabès,Annulé,Retard de livraison,5,App,Cosmétiques
+C0029,2025-03-15,2025-03-29,Tunis,Livré,,2,App,Vêtements
+C0030,2025-03-19,2025-04-03,Nabeul,Annulé,Retard de livraison,3,Site web,Électronique
+C0031,2025-02-07,2025-02-13,Sousse,Livré,,5,Téléphone,Jouets
+C0032,2025-03-02,2025-03-13,Tunis,Livré,,2,Téléphone,Jouets
+C0033,2025-03-24,2025-04-06,Sfax,En retard,Retard de livraison,4,Site web,Vêtements
+C0034,2025-02-08,2025-02-17,Sfax,Livré,,4,App,Cosmétiques
+C0035,2025-03-19,2025-04-01,Sousse,Annulé,,4,App,Électronique
+C0036,2025-02-19,2025-02-22,Tunis,Livré,,3,Téléphone,Vêtements
+C0037,2025-01-17,2025-01-31,Sfax,Livré,,1,Site web,Vêtements
+C0038,2025-01-06,2025-01-19,Tunis,Livré,,2,Téléphone,Cosmétiques
+C0039,2025-01-08,2025-01-20,Sfax,Annulé,Livraison incomplète,2,App,Électronique
+C0040,2025-01-07,2025-01-08,Sfax,En retard,,5,Téléphone,Vêtements
+C0041,2025-02-25,2025-03-03,Gabès,En retard,Retard de livraison,1,Site web,Jouets
+C0042,2025-02-02,2025-02-13,Sousse,En retard,Livraison incomplète,3,Site web,Électronique
+C0043,2025-02-13,2025-02-21,Sousse,Annulé,Produit cassé,5,Site web,Jouets
+C0044,2025-01-20,2025-01-29,Gabès,En retard,Produit cassé,5,App,Vêtements
+C0045,2025-03-07,2025-03-15,Nabeul,Livré,,2,Téléphone,Électronique
+C0046,2025-01-04,2025-01-06,Sousse,Annulé,Produit cassé,5,Téléphone,Jouets
+C0047,2025-02-27,2025-02-28,Nabeul,Livré,,5,App,Livres
+C0048,2025-03-11,2025-03-26,Sousse,Annulé,Produit cassé,5,Site web,Jouets
+C0049,2025-03-17,2025-03-26,Nabeul,En retard,Livraison incomplète,2,Téléphone,Jouets
+C0050,2025-03-15,2025-03-25,Gabès,En retard,Retard de livraison,4,Téléphone,Jouets
+C0051,2025-03-02,2025-03-17,Sousse,Livré,,1,App,Jouets
+C0052,2025-03-15,2025-03-17,Nabeul,Livré,,3,Téléphone,Vêtements
+C0053,2025-03-10,2025-03-11,Nabeul,Annulé,Service client injoignable,3,Site web,Livres
+C0054,2025-02-10,2025-02-21,Gabès,Annulé,,2,Téléphone,Cosmétiques
+C0055,2025-03-22,2025-04-04,Gabès,Annulé,,4,Site web,Livres
+C0056,2025-02-18,2025-02-22,Sousse,En retard,Livraison incomplète,3,Site web,Cosmétiques
+C0057,2025-02-11,2025-02-21,Sousse,Annulé,Retard de livraison,1,Téléphone,Cosmétiques
+C0058,2025-01-25,2025-02-09,Sousse,Annulé,Livraison incomplète,3,App,Livres
+C0059,2025-02-24,2025-03-01,Sousse,Annulé,Produit cassé,1,Site web,Jouets
+C0060,2025-04-09,2025-04-18,Nabeul,Livré,,5,App,Livres
+C0061,2025-03-03,2025-03-18,Nabeul,En retard,Service client injoignable,1,Téléphone,Jouets
+C0062,2025-04-11,2025-04-13,Gabès,Livré,,5,Site web,Électronique
+C0063,2025-01-31,2025-02-11,Tunis,Livré,,2,App,Électronique
+C0064,2025-03-29,2025-04-09,Tunis,Livré,,3,App,Cosmétiques
+C0065,2025-01-20,2025-02-03,Sousse,Livré,,1,App,Cosmétiques
+C0066,2025-01-28,2025-02-08,Nabeul,En retard,Produit cassé,5,Site web,Livres
+C0067,2025-02-01,2025-02-12,Gabès,Livré,,3,App,Livres
+C0068,2025-03-05,2025-03-15,Gabès,Livré,,2,Site web,Vêtements
+C0069,2025-01-23,2025-01-27,Sfax,Livré,,2,Site web,Vêtements
+C0070,2025-02-21,2025-02-28,Tunis,Livré,,4,Site web,Cosmétiques
+C0071,2025-02-01,2025-02-11,Gabès,En retard,,3,App,Livres
+C0072,2025-01-28,2025-02-01,Tunis,Annulé,Retard de livraison,3,Site web,Livres
+C0073,2025-03-20,2025-04-04,Nabeul,En retard,,3,Téléphone,Cosmétiques
+C0074,2025-01-08,2025-01-21,Sfax,En retard,Retard de livraison,4,Téléphone,Électronique
+C0075,2025-03-29,2025-04-12,Nabeul,Livré,,5,Téléphone,Cosmétiques
+C0076,2025-04-11,2025-04-15,Sousse,Annulé,Service client injoignable,5,Site web,Électronique
+C0077,2025-03-12,2025-03-25,Nabeul,En retard,Service client injoignable,2,App,Livres
+C0078,2025-03-14,2025-03-28,Sfax,Annulé,,1,Téléphone,Livres
+C0079,2025-03-09,2025-03-18,Nabeul,Annulé,Produit cassé,4,Site web,Vêtements
+C0080,2025-03-12,2025-03-14,Sfax,Annulé,,5,Site web,Électronique
+C0081,2025-04-02,2025-04-08,Sousse,Livré,,5,Téléphone,Jouets
+C0082,2025-02-13,2025-02-18,Sfax,En retard,Produit cassé,1,App,Vêtements
+C0083,2025-02-19,2025-02-23,Sfax,En retard,Livraison incomplète,4,Téléphone,Électronique
+C0084,2025-03-27,2025-04-06,Sfax,En retard,Service client injoignable,5,Téléphone,Électronique
+C0085,2025-04-02,2025-04-06,Tunis,En retard,,3,Site web,Jouets
+C0086,2025-02-24,2025-03-08,Sousse,En retard,Service client injoignable,2,App,Jouets
+C0087,2025-02-12,2025-02-27,Nabeul,Annulé,,3,Téléphone,Électronique
+C0088,2025-03-12,2025-03-19,Tunis,Livré,,4,Téléphone,Électronique
+C0089,2025-01-11,2025-01-25,Gabès,Livré,,1,App,Jouets
+C0090,2025-01-04,2025-01-09,Nabeul,Annulé,Retard de livraison,5,Site web,Vêtements
+C0091,2025-02-13,2025-02-16,Gabès,Annulé,Service client injoignable,1,Téléphone,Livres
+C0092,2025-01-21,2025-01-27,Nabeul,En retard,,3,Site web,Jouets
+C0093,2025-01-03,2025-01-06,Gabès,Livré,,3,App,Livres
+C0094,2025-01-04,2025-01-08,Sfax,Livré,,4,Téléphone,Livres
+C0095,2025-03-13,2025-03-28,Tunis,Livré,,4,Site web,Livres
+C0096,2025-02-28,2025-03-09,Nabeul,Annulé,,1,App,Cosmétiques
+C0097,2025-02-24,2025-03-02,Tunis,Annulé,,1,Site web,Jouets
+C0098,2025-03-02,2025-03-12,Sfax,Annulé,Service client injoignable,1,Site web,Cosmétiques
+C0099,2025-03-02,2025-03-17,Nabeul,Livré,,2,App,Vêtements
+C0100,2025-03-26,2025-04-07,Sfax,Annulé,Service client injoignable,3,Téléphone,Livres
+C0101,2025-03-14,2025-03-27,Sousse,Annulé,Livraison incomplète,3,Site web,Jouets
+C0102,2025-02-04,2025-02-05,Tunis,Livré,,2,App,Électronique
+C0103,2025-03-19,2025-03-29,Nabeul,Annulé,Livraison incomplète,2,Site web,Livres
+C0104,2025-01-26,2025-02-03,Nabeul,Annulé,Service client injoignable,2,Téléphone,Électronique
+C0105,2025-01-12,2025-01-13,Sfax,Annulé,Service client injoignable,4,App,Jouets
+C0106,2025-02-03,2025-02-16,Sfax,En retard,Service client injoignable,4,Site web,Livres
+C0107,2025-03-13,2025-03-25,Sousse,Livré,,2,App,Livres
+C0108,2025-03-17,2025-03-22,Tunis,Livré,,5,Téléphone,Vêtements
+C0109,2025-03-26,2025-03-29,Sousse,En retard,Service client injoignable,4,App,Électronique
+C0110,2025-01-30,2025-02-11,Nabeul,Annulé,Produit cassé,5,Site web,Livres
+C0111,2025-02-17,2025-03-04,Gabès,En retard,,2,Téléphone,Électronique
+C0112,2025-01-04,2025-01-10,Gabès,Annulé,Retard de livraison,5,Téléphone,Électronique
+C0113,2025-04-03,2025-04-13,Nabeul,En retard,Retard de livraison,5,Site web,Vêtements
+C0114,2025-01-15,2025-01-25,Nabeul,Livré,,4,Site web,Livres
+C0115,2025-02-06,2025-02-17,Tunis,Annulé,Service client injoignable,5,Site web,Livres
+C0116,2025-01-31,2025-02-11,Gabès,Annulé,Livraison incomplète,1,Téléphone,Électronique
+C0117,2025-01-20,2025-01-30,Sousse,En retard,,1,Téléphone,Cosmétiques
+C0118,2025-03-23,2025-03-25,Nabeul,Annulé,Livraison incomplète,1,App,Électronique
+C0119,2025-02-04,2025-02-10,Gabès,En retard,Retard de livraison,3,Téléphone,Vêtements
+C0120,2025-03-01,2025-03-03,Sfax,Annulé,Retard de livraison,1,App,Électronique
+C0121,2025-02-15,2025-02-26,Sfax,Annulé,,2,Téléphone,Livres
+C0122,2025-03-15,2025-03-18,Gabès,Livré,,3,Téléphone,Cosmétiques
+C0123,2025-04-02,2025-04-17,Gabès,Livré,,1,Téléphone,Livres
+C0124,2025-04-10,2025-04-19,Sousse,Annulé,Service client injoignable,5,Site web,Livres
+C0125,2025-01-08,2025-01-18,Tunis,En retard,,4,App,Cosmétiques
+C0126,2025-03-14,2025-03-25,Nabeul,Livré,,2,Site web,Livres
+C0127,2025-01-03,2025-01-12,Tunis,Annulé,Service client injoignable,4,App,Vêtements
+C0128,2025-03-20,2025-03-21,Nabeul,En retard,,3,Téléphone,Jouets
+C0129,2025-03-02,2025-03-13,Sfax,Annulé,Produit cassé,1,Site web,Électronique
+C0130,2025-01-23,2025-01-28,Nabeul,En retard,Retard de livraison,3,App,Jouets
+C0131,2025-03-05,2025-03-15,Gabès,Annulé,Livraison incomplète,3,Site web,Jouets
+C0132,2025-01-04,2025-01-19,Nabeul,Annulé,Produit cassé,5,App,Électronique
+C0133,2025-01-09,2025-01-20,Sfax,Livré,,5,Téléphone,Livres
+C0134,2025-04-11,2025-04-22,Gabès,Livré,,4,App,Livres
+C0135,2025-03-30,2025-04-12,Sousse,Livré,,1,App,Cosmétiques
+C0136,2025-01-08,2025-01-10,Sfax,En retard,,5,Site web,Jouets
+C0137,2025-01-22,2025-01-30,Sousse,En retard,Service client injoignable,2,Téléphone,Jouets
+C0138,2025-02-25,2025-03-01,Sousse,Annulé,Livraison incomplète,1,Téléphone,Jouets
+C0139,2025-04-06,2025-04-21,Tunis,Annulé,Livraison incomplète,2,Site web,Jouets
+C0140,2025-02-02,2025-02-08,Gabès,Annulé,,4,App,Jouets
+C0141,2025-01-17,2025-01-21,Tunis,En retard,Produit cassé,3,Téléphone,Vêtements
+C0142,2025-01-08,2025-01-10,Sfax,En retard,,1,Site web,Livres
+C0143,2025-03-19,2025-03-31,Tunis,Livré,,5,App,Livres
+C0144,2025-01-06,2025-01-12,Sfax,En retard,,4,Site web,Livres
+C0145,2025-01-18,2025-01-21,Nabeul,Livré,,1,Téléphone,Livres
+C0146,2025-03-13,2025-03-27,Gabès,Annulé,Produit cassé,5,App,Cosmétiques
+C0147,2025-01-23,2025-02-03,Nabeul,Annulé,Livraison incomplète,3,Téléphone,Vêtements
+C0148,2025-03-19,2025-04-03,Tunis,Annulé,Retard de livraison,2,Site web,Cosmétiques
+C0149,2025-04-05,2025-04-16,Gabès,Annulé,Produit cassé,2,Site web,Livres
+C0150,2025-03-20,2025-03-26,Nabeul,En retard,Livraison incomplète,4,Téléphone,Cosmétiques
+C0151,2025-01-27,2025-02-07,Sfax,Annulé,Produit cassé,4,App,Cosmétiques
+C0152,2025-01-08,2025-01-17,Nabeul,Livré,,2,App,Électronique
+C0153,2025-02-26,2025-03-04,Nabeul,Livré,,5,Téléphone,Jouets
+C0154,2025-01-08,2025-01-19,Sfax,Annulé,Livraison incomplète,4,Site web,Électronique
+C0155,2025-04-06,2025-04-08,Nabeul,En retard,Retard de livraison,5,Téléphone,Cosmétiques
+C0156,2025-02-27,2025-03-10,Tunis,Livré,,5,App,Livres
+C0157,2025-01-11,2025-01-19,Nabeul,En retard,Retard de livraison,1,Site web,Cosmétiques
+C0158,2025-01-25,2025-01-30,Nabeul,En retard,,3,Téléphone,Livres
+C0159,2025-02-22,2025-03-03,Nabeul,En retard,Produit cassé,5,Téléphone,Électronique
+C0160,2025-01-16,2025-01-17,Gabès,En retard,Service client injoignable,1,Site web,Cosmétiques
+C0161,2025-02-01,2025-02-12,Sousse,Livré,,2,Site web,Jouets
+C0162,2025-01-01,2025-01-11,Tunis,Livré,,3,Site web,Électronique
+C0163,2025-02-05,2025-02-19,Gabès,Annulé,,3,App,Vêtements
+C0164,2025-03-17,2025-03-19,Sousse,En retard,Livraison incomplète,4,App,Jouets
+C0165,2025-02-07,2025-02-09,Tunis,Annulé,Produit cassé,4,Téléphone,Livres
+C0166,2025-03-26,2025-04-08,Tunis,Annulé,Livraison incomplète,1,Téléphone,Vêtements
+C0167,2025-01-05,2025-01-19,Gabès,En retard,Livraison incomplète,4,Site web,Jouets
+C0168,2025-03-10,2025-03-15,Sousse,Livré,,5,Site web,Vêtements
+C0169,2025-02-25,2025-03-08,Tunis,Annulé,Produit cassé,5,Site web,Jouets
+C0170,2025-02-23,2025-03-01,Sousse,Livré,,4,App,Livres
+C0171,2025-04-05,2025-04-18,Nabeul,En retard,,5,App,Jouets
+C0172,2025-02-28,2025-03-01,Nabeul,Livré,,1,App,Jouets
+C0173,2025-02-07,2025-02-13,Nabeul,Annulé,Livraison incomplète,5,Site web,Jouets
+C0174,2025-03-30,2025-04-08,Sousse,En retard,Retard de livraison,3,Site web,Jouets
+C0175,2025-02-12,2025-02-16,Nabeul,Livré,,1,Téléphone,Vêtements
+C0176,2025-02-07,2025-02-13,Sousse,Livré,,3,Site web,Livres
+C0177,2025-01-20,2025-01-25,Sfax,En retard,Produit cassé,1,Site web,Jouets
+C0178,2025-03-16,2025-03-27,Sfax,Livré,,4,Téléphone,Livres
+C0179,2025-01-18,2025-01-29,Sousse,Annulé,Livraison incomplète,3,Site web,Jouets
+C0180,2025-01-30,2025-02-08,Tunis,Annulé,Produit cassé,5,Site web,Livres
+C0181,2025-01-04,2025-01-11,Nabeul,En retard,,1,Téléphone,Cosmétiques
+C0182,2025-03-29,2025-04-02,Nabeul,En retard,Service client injoignable,2,App,Jouets
+C0183,2025-03-07,2025-03-16,Sousse,Annulé,Produit cassé,4,App,Jouets
+C0184,2025-03-08,2025-03-22,Nabeul,Livré,,5,App,Cosmétiques
+C0185,2025-03-01,2025-03-16,Sfax,En retard,Retard de livraison,4,Téléphone,Électronique
+C0186,2025-03-15,2025-03-28,Gabès,Annulé,Service client injoignable,1,App,Vêtements
+C0187,2025-02-02,2025-02-05,Gabès,Annulé,Service client injoignable,2,Site web,Jouets
+C0188,2025-02-19,2025-02-28,Tunis,En retard,Retard de livraison,2,App,Vêtements
+C0189,2025-02-09,2025-02-20,Sfax,Livré,,2,Site web,Jouets
+C0190,2025-03-19,2025-03-25,Sousse,Annulé,,2,Site web,Vêtements
+C0191,2025-01-25,2025-02-03,Sousse,Annulé,Service client injoignable,4,Téléphone,Vêtements
+C0192,2025-01-21,2025-02-02,Tunis,Annulé,Produit cassé,1,Téléphone,Électronique
+C0193,2025-02-09,2025-02-14,Sousse,En retard,,2,Téléphone,Livres
+C0194,2025-01-06,2025-01-12,Nabeul,Livré,,4,App,Livres
+C0195,2025-03-06,2025-03-17,Gabès,En retard,Retard de livraison,3,App,Cosmétiques
+C0196,2025-02-07,2025-02-11,Tunis,En retard,Livraison incomplète,3,Site web,Cosmétiques
+C0197,2025-01-14,2025-01-26,Gabès,Annulé,Produit cassé,4,Site web,Vêtements
+C0198,2025-01-04,2025-01-11,Tunis,Annulé,,1,App,Jouets
+C0199,2025-02-01,2025-02-03,Nabeul,En retard,Service client injoignable,5,Téléphone,Livres
+C0200,2025-01-19,2025-01-28,Tunis,Livré,,2,App,Électronique
